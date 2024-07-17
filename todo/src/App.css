@@ -84,3 +84,21 @@ input, select{
 .filter-options div{
   flex: 1 1 0;
 }
+@media screen and (max-width: 600px) {
+  button {
+    margin-bottom: 8px;
+     
+  }
+}
+@media screen and (max-width: 600px) {
+  .filter-options {
+    margin-bottom: 8px;
+     
+  }
+}
+@media screen and (max-width: 600px) {
+  .todo {
+   font-size: 13px;
+     
+  }
+}
