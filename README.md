@@ -1,6 +1,6 @@
 # Lista de Tarefas.
 
-<img style="height: 450px;" src="\todo\src\img\projeto lista de tarefas" alt="">
+<img style="height: 450px;" src="/todo/src/img/projeto lista de tarefas" alt="">
 
 Deploy: https://lipezxs.github.io/lista_de_tarefas/
 <div style="display: inline_block"><br/>
