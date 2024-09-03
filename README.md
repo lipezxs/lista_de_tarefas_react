@@ -1,6 +1,6 @@
 # Lista de Tarefas.
 
-<img style="height: 500px;" src="todo/src/img/ilustracao.png" alt=""> 
+<img style="height: 500px;" src="/img/ilustracao.png" alt=""> 
 
 Deploy: https://lipezxs.github.io/lista_de_tarefas/
 <div style="display: inline_block"> <br/>
