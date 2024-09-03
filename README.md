@@ -1,6 +1,6 @@
 # Lista de Tarefas.
 
-![Imagem do projeto finalizado](![image](https://github.com/user-attachments/assets/4ab70187-eca4-4c13-93af-7f764e5045cf))
+![Imagem do projeto finalizado](todo/src/img/ilustracao.png))
 
 Deploy: https://lipezxs.github.io/lista_de_tarefas/
 <div style="display: inline_block"> <br/>
