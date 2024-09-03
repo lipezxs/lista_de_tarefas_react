@@ -5,11 +5,11 @@
 
 <h1>Funcionalidades</h1>
 <p>
-Adicionar Tarefa: Permite adicionar novas tarefas à lista.
-Editar Tarefa: Permite modificar o título e a descrição de uma tarefa existente.
-Marcar como Concluída: Permite marcar tarefas como concluídas, facilitando o acompanhamento do progresso.
-Excluir Tarefa: Permite remover tarefas da lista.
-Visualizar Tarefas: Exibe todas as tarefas em uma lista, organizadas por status (concluídas ou pendentes).
+- Adicionar Tarefa: Permite adicionar novas tarefas à lista.  <br/>
+Editar Tarefa: Permite modificar o título e a descrição de uma tarefa existente.  <br/>
+Marcar como Concluída: Permite marcar tarefas como concluídas, facilitando o acompanhamento do progresso.  <br/>
+Excluir Tarefa: Permite remover tarefas da lista.  <br/>
+Visualizar Tarefas: Exibe todas as tarefas em uma lista, organizadas por status (concluídas ou pendentes).  <br/>
 </p>
 Deploy: https://lipezxs.github.io/lista_de_tarefas/
 <div style="display: inline_block"> <br/>
