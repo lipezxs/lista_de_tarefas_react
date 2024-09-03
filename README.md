@@ -1,6 +1,6 @@
 # Lista de Tarefas.
 
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://raw.githubusercontent.com/lipezxs/lista_de_tarefas/main/todo/src/img/ilustra%C3%A7%C3%A3o.png" width="700px" />
 
 Deploy: https://lipezxs.github.io/lista_de_tarefas/
 <div style="display: inline_block"> <br/>
