@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/lipezxs/lista_de_tarefas/main/todo/src/img/ilustra%C3%A7%C3%A3o.png" width="700px" /> <br/>
 <p>Este projeto é uma aplicação simples de lista de tarefas (To-Do List) que permite aos usuários gerenciar suas atividades diárias de forma organizada e eficiente. A aplicação possibilita a criação, visualização, edição e exclusão de tarefas, ajudando o usuário a acompanhar o progresso de suas atividades.</p> <br/>
 
-<h1>Funcionalidades
+<h1>Funcionalidades</h1>
 <p>
 Adicionar Tarefa: Permite adicionar novas tarefas à lista.
 Editar Tarefa: Permite modificar o título e a descrição de uma tarefa existente.
